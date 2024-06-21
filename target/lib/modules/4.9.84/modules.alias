@@ -5,4 +5,7 @@ alias echainiv echainiv
 alias net-pf-16-proto-16-family-nl80211 cfg80211
 alias rpc_pipefs sunrpc
 alias fs-rpc_pipefs sunrpc
+alias usb:v148Fp7601d*dc*dsc*dp*ic*isc*ip*in* mt7601sta
+alias usb:v148Fp6370d*dc*dsc*dp*ic*isc*ip*in* mt7601sta
+alias usb:v148Fp7650d*dc*dsc*dp*ic*isc*ip*in* mt7601sta
 alias fs-exfat exfat
