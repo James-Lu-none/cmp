@@ -7,6 +7,7 @@ kernel/drivers/sstar/notify/ms_notify.ko:
 kernel/net/wireless/cfg80211.ko:
 kernel/net/sunrpc/sunrpc.ko:
 sigmastar/sensor_sc2335_parl.ko: sigmastar/mhal.ko
+extra/mt7601sta.ko: kernel/net/wireless/cfg80211.ko
 sigmastar/mi_shadow.ko: sigmastar/mi_sys.ko sigmastar/mi_common.ko sigmastar/mhal.ko
 sigmastar/mi_sys.ko: sigmastar/mi_common.ko sigmastar/mhal.ko
 sigmastar/mi_common.ko:
