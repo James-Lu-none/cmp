@@ -1,0 +1,8 @@
+# Aliases extracted from modules themselves.
+alias fs-nfs nfs
+alias crypto-echainiv echainiv
+alias echainiv echainiv
+alias net-pf-16-proto-16-family-nl80211 cfg80211
+alias rpc_pipefs sunrpc
+alias fs-rpc_pipefs sunrpc
+alias fs-exfat exfat
